@@ -1,0 +1,8 @@
+
+
+
+
+
+
+
+]    }        "when": "editorTextFocus && github.copilot.activated"        "command": "github.copilot.generate",        "key": "ctrl+i",    {[
